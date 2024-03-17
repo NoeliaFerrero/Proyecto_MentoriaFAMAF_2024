@@ -71,42 +71,16 @@ Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N�
 
 ### Diccionario_de_Datos
 
-Nombre Campo | Breve descripcion | 
+|Nombre Archivo | Link |
 |---|---|
-| Aero | Aerolínea | 
-| Vuelo | Codigo de Vuelo | 
-| Cshare | Código compartido (un vuelo puede ser realizado por empresas del mismo holding)| 
-| Origen | Ruta del vuelo | 
-| Via | Escala del vuelo | 
-| STA | Horario programado de arribo | 
-| Sug | Horario sugerido | 
-| ETA | Estimated Time Arrival| 
-| ATA | Actual Time Arrival | 
-| Tipo | Codificación del tipo de vuelo | 
-| Asignar |  | 
-| Pos | Posición asignada al arribo| 
-| Ter | Terminal en que opera el arribo | 
-| Sec | Sector asociado a la terminal | 
-| Rmk | Remark (Estado del vuelo) | 
-| Cin | Cinta asignada para retirar equipajes| 
-| L&F | Mostrador de reclamos de equipajes asignado al vuelo | 
-| Pax | Cantidad de pasajeros | 
-| Vip | si tiene o no pasajeros vip ese vuelo | 
-| Mat | MAtricula de la aeronave| 
-| Acft | Tipo de aeronave | 
-| Obs. | Observaciones | 
-| Aero | Empresa aerea asociada a la partida | 
-| #Rot | Vuelo asociado a la partida| 
-| Cabecera | Cabecera de pista donde operó el arribo | 
-| año | Año de operación del vuelo | 
-| mes | Mes de operación del vuelo | 
-| Hora | Hora de operación del vuelo | 
+| Descrip_Data | [Link](https://colab.research.google.com/drive/11ix1h6kQFJaYX3G78KJz68CCpWfgffML?usp=sharing) |
+
 
 ### Vista_previa_de_los_Datos 
 
 |Notebook | Descripción | Link |
 |---|---|---|
-| 🐍 Proyecto FAMAF Aeroparque Jorge Newbery | Demo de conexión al Set de datos | [Link](https://colab.research.google.com/drive/11ix1h6kQFJaYX3G78KJz68CCpWfgffML?usp=sharing) |
+| 🐍 Proyecto Sin bajar la Guard.IA | Demo de conexión a los Set de datos | [Link](https://colab.research.google.com/drive/11ix1h6kQFJaYX3G78KJz68CCpWfgffML?usp=sharing) |
  
 **[⬆ Volver al inicio](#introduccion)**
 
