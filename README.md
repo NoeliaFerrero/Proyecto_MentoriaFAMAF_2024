@@ -11,10 +11,10 @@
 
 # Tabla de contenidos 📖
 - [Introduccion](#introduccion)
-- [Contexto Sanitario](#contexto_sanitario)
+- [Contexto Sanitario](#Contexto_Sanitario)
   - [Objetivo](#objetivo)
   - [Descripcion](#descripcion)
-- [Contexto Analítico](#contexto_analítico)
+- [Contexto Analítico](#Contexto_Analítico)
   - [Diccionario de Datos](#diccionario_de_datos)
   - [Vista previa de los datos](#vista_previa_de_los_datos)
 - [FAQs](#faqs)
@@ -34,7 +34,7 @@ En este proyecto de Ciencia de Datos, al igual que en ese panel de monitoreo, no
 
 La Guard.IA esta a punto de comenzar y el desafio mayor consiste en poner en marcha tanto las habilidades técnicas, como las habilidades blandas, que nos permitan ir desandando a lo largo del camino, todo lo que los datos recolectados, tienen para contar. 
 
-## contexto_sanitario 
+## Contexto_Sanitario 
 
 ### Objetivo
 
