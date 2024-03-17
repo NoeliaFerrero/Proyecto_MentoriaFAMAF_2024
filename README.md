@@ -66,7 +66,7 @@ En ambos casos, se requirió la descarga, limpieza y consistencia de diferentes 
 
 Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N° Campos | Link |
 |---|---|---|---|---|---|---|
-| .CSV | 4,52 Mb| Establecimientos, Geoespacial | Tabular | 40.682  | 17 | [Link](https://raw.githubusercontent.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/main/DataSet%20Aeropuerto%20Jorge%20Newery.csv) |
+| .CSV | 4,52 Mb| Establecimientos, Geoespacial | Tabular | 40.682  | 17 | [Link](https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2024/blob/main/Establecimientos-asistenciales-asentados-registro-federal-refes-20220404.xlsx)|
 | .CSV | 20   Kb| Especialidades Médicas        | Tabular | 76      | 25 | [Link](https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2024/blob/ba1f819726498bb3ff6c43e17d53ef8f559c97c6/Cant_medicos%20especialistas%20por%20Provincia.xlsx)|
 
 ### Diccionario_de_Datos
