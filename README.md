@@ -11,7 +11,7 @@
 
 # Tabla de contenidos 📖
 - [Introduccion](#introduccion)
-- [Contexto Empresarial](#contexto_empresarial)
+- [Contexto Sanitario](#contexto_sanitario)
   - [Objetivo](#objetivo)
   - [Descripcion](#descripcion)
 - [Contexto Analítico](#contexto_analítico)
@@ -34,16 +34,15 @@ En este proyecto de Ciencia de Datos, al igual que en ese panel de monitoreo, no
 
 La Guard.IA esta a punto de comenzar y el desafio mayor consiste en poner en marcha tanto las habilidades técnicas, como las habilidades blandas, que nos permitan ir desandando a lo largo del camino, todo lo que los datos recolectados, tienen para contar. 
 
-## contexto_empresarial 
+## contexto_sanitario 
 
 ### Objetivo
 
-Gestión de los recursos Aeroportuarios, analizar y determinar puntos críticos de saturación en el Aeroparque Jorge Newbery.
+Gestión de servicios de salud, analizar y determinar puntos críticos de saturación a nivel establecimientos y especialidades médicas.
 
 ### Descripcion 
 
-Dada la excelente ubicación geográfica, el Aeropuerto Jorge Newbery es estratégico para la explotación de empresas aéreas tanto nacionales, como internacionales. Luego de la pandemia del Covid 2020 se decretó que el mismo volvería a ser un aeropuerto internacional (destinos del Mercosur y países de Sudamérica). Es por esto, que se han incrementado exponencialmente sus operaciones, pero su infraestructura para soportar este incremento no ha acompañado. Luego de la época de confinamiento, se reconstruyó la única pista que este aeródromo posee, pero esa obra no es suficiente, ya que la terminal de pasajeros ha permanecido prácticamente sin grandes incrementos de su capacidad.
-Se realizará el estudio de los datos provistos por el explotador aéreo existente a fin de prever los picos de capacidad de todos los subsistemas que integran al aeropuerto en sí y así evitar saturaciones de los mismos, permitiendo una gestión soportada en datos.  
+El objetivo principal del proyecto es utilizar técnicas de Ciencia de Datos para analizar y comprender la distribución de los establecimientos de salud y las especialidades médicas en todo el país. A partir de este análisis, se busca generar conocimientos que puedan ser utilizados para mejorar la planificación y la gestión de los recursos de salud a nivel nacional y provincial, así como para identificar posibles áreas de mejora (vulnerabilidad sanitaria).  
 
 **[⬆ Volver al inicio](#introduccion)**
 
