@@ -48,11 +48,26 @@ El objetivo principal del proyecto es utilizar técnicas de Ciencia de Datos par
 
 ## Contexto_Analítico 
 
-Registros de 120000+ vuelos de aerolíneas comerciales entre los años 2019 y septiembre del 2022 inclusive. Cada registro representa un solo vuelo, incluido el nombre de la aerolínea, el número de vuelo y el aeropuerto de origen / destino, así como los horarios de salida y llegada programados / reales.
+Para el desarrollo de este proyecto se construyeron los siguientes dataset: 
+
+1.	Establecimientos de salud, con y sin internación, de todas las provincias y cuyo financiamiento es de origen público o de origen privado: Dataset conteniendo la mayor cantidad posible de establecimientos de salud de todo el país, con 40.682 registros resultantes luego de la integración. 
+2.	Médicos por jurisdicción según domicilio electoral: Información consolidada de las distintas especialidades médicas a nivel federal, según jurisdicción constatada por padrón electoral, con 76 registros discriminados por provincia.
+   
+En ambos casos, se requirió la descarga, limpieza y consistencia de diferentes fuentes de datos oficiales: 
+
+• Base nacional de Hospitales y Centros de Atención Primaria: la misma fue compilada por el Sistema de Información Sanitaria Argentina (SISA), obtenido a través del SEDRONAR en el sitio de IDERA (http://catalogo.idera.gob.ar). 
+
+• Establecimientos de salud del programa SUMAR: El sitio fue scrapeado para la obtención de los listados de los establecimientos con la dirección de cada centro de salud. 
+
+• Listados de hospitales y centros de atención de salud del Programa Nacional de Salud Sexual y Procreación Responsable (Ministerio de Salud): Se dispone de datos por provincia. 
+
+• Otras fuentes a nivel provincial, generalmente, Ministerios o Secretarías de Salud. 
+
 
 Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N° Campos | Link |
 |---|---|---|---|---|---|---|
-| .CSV | 13,5 Mb| Series Temporales, Transporte, Geoespacial | Tabular | 127929 | 28 | [Link](https://raw.githubusercontent.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/main/DataSet%20Aeropuerto%20Jorge%20Newery.csv) |
+| .CSV | 4,52 Mb| Establecimientos, Geoespacial | Tabular | 40.682  | 17 | [Link](https://raw.githubusercontent.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/main/DataSet%20Aeropuerto%20Jorge%20Newery.csv) |
+| .CSV | 20   Kb| Especialidades Médicas        | Tabular | 76      | 25 | [Link](https://raw.githubusercontent.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/main/DataSet%20Aeropuerto%20Jorge%20Newery.csv) |
 
 ### Diccionario_de_Datos
 
