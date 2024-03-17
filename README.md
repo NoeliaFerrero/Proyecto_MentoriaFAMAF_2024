@@ -1,11 +1,11 @@
-# ~ Mentoria FAMAF 2024 ~ 
+# Mentoria FAMAF 2024 
 
-# ***Sin bajar la Guard.IA, construyendo conocimiento a partir de datos de salud***
+# Proyecto: ***Sin bajar la Guard.IA ~ Construyendo conocimiento al servicio de la salud***
 
 <div align="center">
 
 <p align="center">
-  <img src="https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/blob/main/listo para el despegue en DS_1.png" width="500" height="300">
+  <img src="https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2024/blob/main/banner_proyecto.png">
 </p>
 </div>
 
@@ -23,9 +23,18 @@
 
 ## Introduccion 
 
-***De la misma manera que el Big Bang (o Gran Explosión en español), intenta interpretar el punto inicial en el que se formó la materia, el espacio y el tiempo, trabajaremos en las distintas etapas en el ciclo de vida del desarrollo de un proyecto de Ciencia de Datos, para generar valor en función de nuestros datos cualitativos (materia y espacio), vs. nuestros datos cuantitativos (tiempo). Aunque estos términos suenen similares, la investigación de datos, cualitativa y la cuantitativa son dos métodos significativamente diferentes. Entender esa diferencia puede tener un gran impacto a la hora de analizar el éxito de una solución/producto basado en datos.*** 
+Así como una sala de emergencias es el punto de partida para innumerables historias de recuperación, un buen proyecto de Ciencia de Datos, es el punto de partida para decisiones informadas, ideas innovadoras y, finalmente, historias de éxito en salud.
 
-## Contexto_Empresarial 
+Quien ha estado en un hospital y se detuvo frente al panel de monitoreo de pacientes, sabe cada minuto cuenta…que cada escenario es muy cambiante...
+esa pantalla, aparentemente un conjunto de datos fríos para algunos, en realidad es una ventana hacia innumerables historias para aquellos que saben interpretarla: cada diagnóstico es el equivalente a un capítulo en la vida de una persona, donde generalmente se terminarán desencadenando un sinfín de desenlaces. 
+
+Esta experiencia nos lleva a reflexionar sobre el poder de los datos en un mundo donde los recursos asociados a la salud de la población, en muchas ocasiones no son gestionados de la manera más efectiva.
+
+En este proyecto de Ciencia de Datos, al igual que en ese panel de monitoreo, no solo mostraremos cifras, nos comprometemos a generar hallazgos. Pero, ¿cómo podemos asegurarnos de que ese conocimiento realmente 'hable' y comunique esa información de manera asertiva?
+
+La Guard.IA esta a punto de comenzar y el desafio mayor consiste en poner en marcha tanto las habilidades técnicas, como las habilidades blandas, que nos permitan ir desandando a lo largo del camino, todo lo que los datos recolectados, tienen para contar. 
+
+## contexto_empresarial 
 
 ### Objetivo
 
