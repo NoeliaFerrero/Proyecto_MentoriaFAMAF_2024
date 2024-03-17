@@ -73,7 +73,7 @@ Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N�
 
 |Nombre Archivo | Link |
 |---|---|
-| Descrip_Data | [Link](https://colab.research.google.com/drive/11ix1h6kQFJaYX3G78KJz68CCpWfgffML?usp=sharing) |
+| Descrip_Data | [Link](https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2024/blob/main/Descrip_Data.xlsx)|
 
 
 ### Vista_previa_de_los_Datos 
