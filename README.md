@@ -80,29 +80,33 @@ Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N�
 
 |Notebook | Descripción | Link |
 |---|---|---|
-| 🐍 Proyecto Sin bajar la Guard.IA | Demo de conexión a los Set de datos | [Link](https://colab.research.google.com/drive/11ix1h6kQFJaYX3G78KJz68CCpWfgffML?usp=sharing) |
+| 🐍 Proyecto Sin bajar la Guard.IA | Demo de conexión a los Set de datos | [Link](------https://colab.research.google.com/drive/11ix1h6kQFJaYX3G78KJz68CCpWfgffML?usp=sharing) |
  
 **[⬆ Volver al inicio](#introduccion)**
 
 ## FAQs
 
+Si lo que leiste hasta aca te resulto interesante, me gustaría compartirte algunos aspectos mas, para que puedas tener en cuenta antes de sumergirte en el proyecto...
+
 ### Faq1 
 
-***¿Qué te sumaría participar en este proyecto?***
 
-El peor mito que me invadía, cuando comencé a conocer este “smart data”, es que la inspiración llega cuando quiere. Y digo esto, porque todos, en mayor ó menor medida, hemos tenido dudas al momento de encontrar esa GRAN idea que guie nuestro primer GRAN proyecto, pero si ponemos atención, podemos encontrar puntos de inspiración muy claros en nuestra vida y las cosas que nos llaman la atención, y entonces empiezan a surgir las preguntas interesantes…claro que, para poder responder esas preguntas, debemos tener algo que es muy necesario: **contexto**. El contexto lo podemos obtener de muchos lugares: de los que hacemos, de lo que queremos hacer, algunos también lo llaman **motivación** ó **propósito**. 
+***¿Qué principios o enfoques guiarán la presentación y el análisis de los datos en el proyecto?***
 
-Te invito a explorar esas dimensiones construyendo juntos este proyecto para que puedas: 
--	Mejorar lo que ya haces en tu trabajo
--	Profesionalizar tu conocimiento sobre un tema del que quieras aprender
--	Solidificar los beneficios del trabajo en equipo. Un trabajo bien logrado, donde cada integrante, sea pieza fundamental
+El contexto es clave: proporcionar contexto es el equivalente a brindar un mapa de un hospital. Ayuda tanto a los involucrados en el proyecto, como a cualquier persona externa que tenga alcance al mismo, a “scrollear” a través de los datos, comprendiendo no solo el qué, sino el porqué. 
+
+Claridad ante todo: al igual que una señal clara de emergencia, nuestros hallazgos deben destacar la información más crítica de manera comprensible a primera vista. La simplicidad muchas veces, no resta valor, lo amplifica. Se trabajará con la Metodología del Diamante como una forma de empezar a detectar/ampliar las ideas iniciales. 
 
 ### Faq2 
 
 ***Este proyecto es para vos si...***
 
-Este recurso ha sido pensado con la intención de brindarte la flexibilidad para encontrar tu propio camino...diseñar un viaje en el que puedas desarrollar e intercambiar habilidades del mundo real...
-asique si ya comenzaste esa metamorfosis que te permite pensar como un verdadero Cientifico/a de datos y especialmente si te gusta volar con la imaginación (lease, hacer presentaciones anti-aburridas) podes sumarte a bordo, la hoja de ruta esta casi lista, solo falta agregar la pasión por los datos que cada uno quiera compartir!
+Disfrutas trabajar con algoritmos de Machine Learning y estás dispuesto/a a iterar tantas veces como sea necesario: al igual que los registros médicos interactivos, trabajaremos con las distintas funcionalidades de las librerías para Ciencia de Datos, que nos permitan desarrollar modelos capaces de interpretar y aprender de la naturaleza de los datos seleccionados. Además, a medida que vallamos avanzado en el proyecto, se trasladaran los insights obtenidos al framework de Streamlit para convertir los scripts en una data apps y poder mostrarlos de manera más interactiva. Todo en Python puro y open source, no se requiere experiencia en front-end. Trabajando con Generative IA + Steamlit, lograremos el match perfecto.
+
+Te gusta crear visualizaciones con propósito y presentaciones atractivas: los colores y el diseño de la cartelería empleada en un establecimiento hospitalario, claramente no son solo estéticos. Son señales visuales que guían la atención, resaltan diferencias críticas y evocan experiencias. De igual manera, se abordará el proyecto mediante técnicas de storytelling (narrativa visual), por ejemplo, usando atributos preatentivos, esto es, atributos visuales que nuestro cerebro procesa sin necesidad de una acción consciente.
+
+Te comprometes a trabajar en equipo: El compromiso es un aspecto que a menudo se pasa por alto en los esfuerzos de colaboración y es fundamental para conseguir resultados de calidad entre las personas que trabajan en un tema concreto. Será necesario dedicar el tiempo suficiente para generar buenos aportes al proyecto, así como para apoyar las iniciativas de todos los integrantes de la mentoría.
+
 
 **[⬆ Volver al inicio](#introduccion)**
 
