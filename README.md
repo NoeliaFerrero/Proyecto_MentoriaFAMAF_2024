@@ -55,13 +55,13 @@ Para el desarrollo de este proyecto se construyeron los siguientes dataset:
    
 En ambos casos, se requirió la descarga, limpieza y consistencia de diferentes fuentes de datos oficiales: 
 
-• Base nacional de Hospitales y Centros de Atención Primaria: la misma fue compilada por el Sistema de Información Sanitaria Argentina (SISA), obtenido a través del SEDRONAR en el sitio de IDERA (http://catalogo.idera.gob.ar). 
+📌 Base nacional de Hospitales y Centros de Atención Primaria: la misma fue compilada por el Sistema de Información Sanitaria Argentina (SISA), obtenido a través del SEDRONAR en el sitio de IDERA (http://catalogo.idera.gob.ar). 
 
-• Establecimientos de salud del programa SUMAR: El sitio fue scrapeado para la obtención de los listados de los establecimientos con la dirección de cada centro de salud. 
+📌 Establecimientos de salud del programa SUMAR: El sitio fue scrapeado para la obtención de los listados de los establecimientos con la dirección de cada centro de salud. 
 
-• Listados de hospitales y centros de atención de salud del Programa Nacional de Salud Sexual y Procreación Responsable (Ministerio de Salud): Se dispone de datos por provincia. 
+📌 Listados de hospitales y centros de atención de salud del Programa Nacional de Salud Sexual y Procreación Responsable (Ministerio de Salud): Se dispone de datos por provincia. 
 
-• Otras fuentes a nivel provincial, generalmente, Ministerios o Secretarías de Salud. 
+📌 Otras fuentes a nivel provincial, generalmente, Ministerios o Secretarías de Salud. 
 
 
 Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N° Campos | Link |
@@ -95,7 +95,7 @@ Si la temática del proyecto te resulto interesante, me gustaría compartirte al
 
 🎯  El contexto es clave: proporcionar contexto es el equivalente a brindar un mapa de un hospital. Ayuda tanto a los involucrados en el proyecto, como a cualquier persona externa que tenga alcance al mismo, a “scrollear” a través de los datos, comprendiendo no solo el qué, sino el porqué. 
 
-💻  Claridad ante todo: al igual que una señal clara de emergencia, nuestros hallazgos deben destacar la información más crítica de manera comprensible a primera vista. La simplicidad muchas veces, no resta valor, lo amplifica. Se trabajará con la Metodología del Diamante como una forma de empezar a detectar/ampliar las ideas iniciales. 
+🩺  Claridad ante todo: al igual que una señal clara de emergencia, nuestros hallazgos deben destacar la información más crítica de manera comprensible a primera vista. La simplicidad muchas veces, no resta valor, lo amplifica. Se trabajará con la Metodología del Diamante como una forma de empezar a detectar/ampliar las ideas iniciales. 
 
 ### Faq2 
 
@@ -103,7 +103,7 @@ Si la temática del proyecto te resulto interesante, me gustaría compartirte al
 
 🚨  NO estes dispuesto/a a iterar end-to-end tantas veces como sea necesario y NO disfrutes afrontar los desafiós que implican los algoritmos de Machine Learning: al igual que los registros médicos interactivos, trabajaremos con las distintas funcionalidades de las librerías para Ciencia de Datos, que nos permitan desarrollar modelos capaces de interpretar y aprender de la naturaleza de los datos seleccionados. Además, apuntando a un enfoque multidimensional y poniendo el foco en las preguntas de interés, cruzaremos los datos bajo estudio con los datos obtenidos en el Censo Nacional 2022 y con información compatible de la API de Google para georreferenciar los establecimientos de salud. Y a medida que vallamos avanzado en el proyecto, se trasladaran los insights obtenidos al framework de Streamlit para convertir los scripts en una data apps y poder mostrarlos de manera más interactiva. Todo en Python puro y open source, no se requiere experiencia en front-end. Trabajando con Generative IA + Steamlit, lograremos el match perfecto.
 
-🚑  NO te guste crear visualizaciones con propósito y presentaciones atractivas: los colores y el diseño de la cartelería empleada en un establecimiento hospitalario, claramente no son solo estéticos. Son señales visuales que guían la atención, resaltan diferencias críticas y evocan experiencias. De igual manera, se abordará el proyecto mediante técnicas de storytelling (narrativa visual), por ejemplo, usando atributos preatentivos, esto es, atributos visuales que nuestro cerebro procesa sin necesidad de una acción consciente.
+💊  NO te guste crear visualizaciones con propósito y presentaciones atractivas: los colores y el diseño de la cartelería empleada en un establecimiento hospitalario, claramente no son solo estéticos. Son señales visuales que guían la atención, resaltan diferencias críticas y evocan experiencias. De igual manera, se abordará el proyecto mediante técnicas de storytelling (narrativa visual), por ejemplo, usando atributos preatentivos, esto es, atributos visuales que nuestro cerebro procesa sin necesidad de una acción consciente.
 
 🚑  NO te comprometas a trabajar en equipo: El compromiso es un aspecto que a menudo se pasa por alto en los esfuerzos de colaboración y es fundamental para conseguir resultados de calidad entre las personas que trabajan en un tema concreto. Será necesario dedicar el tiempo suficiente para generar buenos aportes al proyecto, así como para apoyar las iniciativas de todos los integrantes de la mentoría.
 
