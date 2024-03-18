@@ -86,22 +86,22 @@ Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N�
 
 ## FAQs
 
-Si la temática del proyecto te resulto interesante, me gustaría compartirte algunos aspectos mas relacionados a la modalidad de trabajo, para que puedas tener en cuenta antes de sumergirte en el proyecto...
+Si la temática del proyecto te resulto interesante, me gustaría compartirte algunas "Advertencias y Precauciones" relacionados a la modalidad de trabajo, para que puedas tener en cuenta antes de sumergirte en el proyecto...
 
 ### Faq1 
 
 
-***¿Qué principios guiarán la presentación y el análisis de los resultados hallados durante la mentoria?***
+***Posología y forma de administración de los resultados hallados durante la mentoria***
 
-💻  El contexto es clave: proporcionar contexto es el equivalente a brindar un mapa de un hospital. Ayuda tanto a los involucrados en el proyecto, como a cualquier persona externa que tenga alcance al mismo, a “scrollear” a través de los datos, comprendiendo no solo el qué, sino el porqué. 
+🎯  El contexto es clave: proporcionar contexto es el equivalente a brindar un mapa de un hospital. Ayuda tanto a los involucrados en el proyecto, como a cualquier persona externa que tenga alcance al mismo, a “scrollear” a través de los datos, comprendiendo no solo el qué, sino el porqué. 
 
 💻  Claridad ante todo: al igual que una señal clara de emergencia, nuestros hallazgos deben destacar la información más crítica de manera comprensible a primera vista. La simplicidad muchas veces, no resta valor, lo amplifica. Se trabajará con la Metodología del Diamante como una forma de empezar a detectar/ampliar las ideas iniciales. 
 
 ### Faq2 
 
-***Este proyecto tiene contraindicaciones para vos en caso de que...***
+***Este proyecto esta CONTRAINDICADO para vos en caso de que...***
 
-🚑  NO estes dispuesto/a a iterar end-to-end tantas veces como sea necesario y NO disfrutes afrontar los desafiós que implican los algoritmos de Machine Learning: al igual que los registros médicos interactivos, trabajaremos con las distintas funcionalidades de las librerías para Ciencia de Datos, que nos permitan desarrollar modelos capaces de interpretar y aprender de la naturaleza de los datos seleccionados. Además, apuntando a un enfoque multidimensional y poniendo el foco en las siguientes preguntas de interés, cruzaremos los datos bajo estudio con los datos obtenidos en el Censo Nacional 2022 y con información compatible de la API de Google para georreferenciar los establecimientos de salud. Y a medida que vallamos avanzado en el proyecto, se trasladaran los insights obtenidos al framework de Streamlit para convertir los scripts en una data apps y poder mostrarlos de manera más interactiva. Todo en Python puro y open source, no se requiere experiencia en front-end. Trabajando con Generative IA + Steamlit, lograremos el match perfecto.
+🚨  NO estes dispuesto/a a iterar end-to-end tantas veces como sea necesario y NO disfrutes afrontar los desafiós que implican los algoritmos de Machine Learning: al igual que los registros médicos interactivos, trabajaremos con las distintas funcionalidades de las librerías para Ciencia de Datos, que nos permitan desarrollar modelos capaces de interpretar y aprender de la naturaleza de los datos seleccionados. Además, apuntando a un enfoque multidimensional y poniendo el foco en las siguientes preguntas de interés, cruzaremos los datos bajo estudio con los datos obtenidos en el Censo Nacional 2022 y con información compatible de la API de Google para georreferenciar los establecimientos de salud. Y a medida que vallamos avanzado en el proyecto, se trasladaran los insights obtenidos al framework de Streamlit para convertir los scripts en una data apps y poder mostrarlos de manera más interactiva. Todo en Python puro y open source, no se requiere experiencia en front-end. Trabajando con Generative IA + Steamlit, lograremos el match perfecto.
 
 🚑  NO te guste crear visualizaciones con propósito y presentaciones atractivas: los colores y el diseño de la cartelería empleada en un establecimiento hospitalario, claramente no son solo estéticos. Son señales visuales que guían la atención, resaltan diferencias críticas y evocan experiencias. De igual manera, se abordará el proyecto mediante técnicas de storytelling (narrativa visual), por ejemplo, usando atributos preatentivos, esto es, atributos visuales que nuestro cerebro procesa sin necesidad de una acción consciente.
 
