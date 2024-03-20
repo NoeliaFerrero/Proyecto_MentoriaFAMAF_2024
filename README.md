@@ -103,13 +103,13 @@ Si la temática del proyecto te resulto interesante, me gustaría compartirte al
 
 🚨  NO estes dispuesto/a a iterar end-to-end tantas veces como sea necesario y NO disfrutes afrontar los desafiós que implican los algoritmos de Machine Learning: al igual que los registros médicos interactivos, trabajaremos con las distintas funcionalidades de las librerías para Ciencia de Datos, que nos permitan desarrollar modelos capaces de interpretar y aprender de la naturaleza de los datos seleccionados. Además, apuntando a un enfoque multidimensional y poniendo el foco en las preguntas de interés, cruzaremos los datos bajo estudio con los datos obtenidos en el Censo Nacional 2022 y con información compatible de la API de Google para georreferenciar los establecimientos de salud. Y a medida que vallamos avanzado en el proyecto, se trasladaran los insights obtenidos al framework de Streamlit para convertir los scripts en una data apps y poder mostrarlos de manera más interactiva. Todo en Python puro y open source, no se requiere experiencia en front-end. Trabajando con Generative IA + Steamlit, lograremos el match perfecto.
 
-💊  NO te guste crear visualizaciones con propósito y presentaciones atractivas: los colores y el diseño de la cartelería empleada en un establecimiento hospitalario, claramente no son solo estéticos. Son señales visuales que guían la atención, resaltan diferencias críticas y evocan experiencias. De igual manera, se abordará el proyecto mediante técnicas de storytelling (narrativa visual), por ejemplo, usando atributos preatentivos, esto es, atributos visuales que nuestro cerebro procesa sin necesidad de una acción consciente.
+💊  NO te guste crear visualizaciones con propósito y presentaciones atractivas: los colores y el diseño de la cartelería empleada en un establecimiento hospitalario, claramente no son solo estéticos. Son señales visuales que guían la atención, resaltan diferencias críticas y evocan experiencias. De igual manera, se abordará el proyecto mediante técnicas de storytelling (narrativa visual), por ejemplo, usando atributos preatentivos, esto es, atributos visuales que nuestro cerebro procesa sin necesidad de una acción consciente y trabajaremos con mapas, mapas y mas mapas.
 
 🚑  NO te comprometas a trabajar en equipo: El compromiso es un aspecto que a menudo se pasa por alto en los esfuerzos de colaboración y es fundamental para conseguir resultados de calidad entre las personas que trabajan en un tema concreto. Será necesario dedicar el tiempo suficiente para generar buenos aportes al proyecto, así como para apoyar las iniciativas de todos los integrantes de la mentoría.
 
 
 **[⬆ Volver al inicio](#introduccion)**
 
-Gracias por tu lectura. Espero que encuentres algo útil durante tu tiempo aquí ;) 
+Gracias por haberte detenido en estas coordenadas. Espero que encuentres algo útil durante tu tiempo aquí ;) 
 
 By Noe Ferrero
