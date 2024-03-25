@@ -1,0 +1,91 @@
+Diccionario de datos de Organizaciones sociales;
+;
+Variable:;Carpeta
+Etiqueta:;Carpeta
+;
+Variable:;tessellate
+Etiqueta:;tessellate
+;
+Variable:;extrude
+Etiqueta:;extrude
+;
+Variable:;visibility
+Etiqueta:;visibility
+;
+Variable:;ID
+Etiqueta:;ID
+;
+Variable:;Organizacion
+Etiqueta:;Organización
+;
+Variable:;Localizacion
+Etiqueta:;Localización
+;
+Variable:;PROV
+Etiqueta:;Provincia
+;
+Variable:;Campo_de_Accion
+Etiqueta:;Campo de Acción
+;
+Variable:;Pertenece_a_una_Red
+Etiqueta:;Pertenece a una Red
+;
+Variable:;Nombre_de_la_Red
+Etiqueta:;Nombre de la Red
+;
+Variable:;Facebook
+Etiqueta:;Facebook
+;
+Variable:;Instagram
+Etiqueta:;Instagram
+;
+Variable:;Pag._web
+Etiqueta:;Pág. web
+;
+Variable:;Twitter
+Etiqueta:;Twitter
+;
+Variable:;MUNI
+Etiqueta:;MUNI
+;
+Variable:;layer
+Etiqueta:;layer
+;
+Variable:;path
+Etiqueta:;path
+;
+Variable:;direcci
+Etiqueta:;direcci
+;
+Variable:;field_7
+Etiqueta:;field_7
+;
+Variable:;latitu
+Etiqueta:;latitu
+;
+Variable:;longitu
+Etiqueta:;longitu
+;
+Variable:;Estilo
+Etiqueta:;Estilo
+;
+Variable:;Latitud
+Etiqueta:;Latitud
+;
+Variable:;Longitud
+Etiqueta:;Longitud
+;
+Variable:;Codigo_de_provincia
+Etiqueta:;Código de provincia
+;
+Variable:;Nombre_de_provincia
+Etiqueta:;Nombre de provincia
+;
+Variable:;Codigo_de_departamentos_comuna
+Etiqueta:;Código de departamentos/comuna
+;
+Variable:;Nombre_de_departamentos_comuna
+Etiqueta:;Nombre de departamentos/comuna
+;
+Variable:;Codigo_de_radio
+Etiqueta:;Código de radio

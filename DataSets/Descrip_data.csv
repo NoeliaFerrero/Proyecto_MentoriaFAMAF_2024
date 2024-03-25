@@ -1,0 +1,18 @@
+Nro. Columna	Título de la columna	Tipo de dato	Descripción
+1	establecimiento_id	Número entero (integer)	código dado por vinculación al Registro REFES (RM 1070/2009 Creación del Registro Federal de Establecimientos de Salud-REFES)
+2	establecimiento_nombre	Texto (string)	Nombre del establecimiento con el que figura en la disposición ministerial y/o de autoridad sanitaria local.
+3	localidad_id	Número entero (integer)	Código localidad BAHRA
+4	localidad_nombre	Texto (string)	Nombre de la localidad de uso de costumbre
+5	provincia_id	Número entero (integer)	código INDEC de provincia
+6	provincia_nombre	Texto (string)	Nombre oficial de la provincia
+7	departamento_id	Número entero (integer)	Código INDEC de departamento
+8	departamento_nombre	Texto (string)	Nombre oficial del departamento
+9	cod_loc	Número entero (integer)	Es la parte correspondiente a la localidad en desgloce del codigo de localidad(localidad_id) que es provincia + departamento + localidad + entidad
+10	cod_ent	Número entero (integer)	Es la parte correspondiente a la entidad en desgloce del codigo de localidad(localidad_id) que es provincia + departamento + localidad + entidad
+11	origen_financiamiento	Texto (string)	Origen de los fondos de financimiento del establecimiento.Puede ser del erario Público ó del erario Privado
+12	tipologia_id	Número entero (integer)	Código que le corresponde por la tipología de establecimiento con la cual se clasifica al establecimiento
+13	tipologia_sigla	Texto (string)	Iniciales del nombre completo de las tipologías posibles para clasificar establecimientos
+14	tipologia	Texto (string)	Nombre completo de la tipología (Resolución 900-E/2017 Tipologías de Establecimientos de Salud
+15	cp	Texto (string)	Código postal designado por el Correo Argentino. En el presente, acepta el formato con cuatro dígitos y/el alfanumérico
+16	domicilio	Texto (string)	Domicilio que consta en los documentos de habilitación, disposición ministerial
+17	sitio_web	Texto (string)	sitio web del establecimiento o de la entidad mayor bajo el cual funciona
