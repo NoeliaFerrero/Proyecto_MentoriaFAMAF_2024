@@ -5,6 +5,6 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2024/blob/cc6823d462fd0a6a71b0096bbf1ca9032755bc23/TPs/pinches2.jpg">
+  <img src="https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2024/blob/cc6823d462fd0a6a71b0096bbf1ca9032755bc23/TPs/pinches2.jpg" width="400" height="300" >
 </p>
 </div>
