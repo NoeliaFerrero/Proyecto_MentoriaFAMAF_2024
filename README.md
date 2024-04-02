@@ -25,7 +25,7 @@
 
 Así como una sala de emergencias es el punto de partida para innumerables historias de recuperación, un buen proyecto de Ciencia de Datos, es el punto de partida para decisiones informadas, ideas innovadoras y, finalmente, historias de éxito en salud.
 
-Quien ha estado en un hospital y se detuvo frente al panel de monitoreo de pacientes, sabe cada minuto cuenta…que cada escenario es muy cambiante...
+Quien ha estado en un hospital y se detuvo frente al panel de monitoreo de pacientes, sabe que cada minuto cuenta…que cada escenario es muy cambiante...
 esa pantalla, aparentemente un conjunto de datos fríos para algunos, en realidad es una ventana hacia innumerables historias para aquellos que saben interpretarla: cada diagnóstico es el equivalente a un capítulo en la vida de una persona, donde generalmente se terminarán desencadenando un sinfín de desenlaces. 
 
 Esta experiencia nos lleva a reflexionar sobre el poder de los datos en un mundo donde los recursos asociados a la salud de la población, en muchas ocasiones no son gestionados de la manera más efectiva.
