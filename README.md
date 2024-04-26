@@ -13,7 +13,6 @@
 - [Introduccion](#introduccion)
 - [Contexto Sanitario](#Contexto_Sanitario)
   - [Objetivo](#objetivo)
-  - [Descripcion](#descripcion)
 - [Contexto Analítico](#Contexto_Analítico)
   - [Diccionario de Datos](#diccionario_de_datos)
   - [Vista previa de los datos](#vista_previa_de_los_datos)
@@ -36,11 +35,7 @@ La Guard.IA esta a punto de comenzar y el desafio mayor consiste en poner en mar
 
 ## Contexto_Sanitario 
 
-### Objetivo
-
-Gestión de servicios de salud, analizar y determinar puntos críticos de saturación a nivel establecimientos y especialidades médicas.
-
-### Descripcion 
+### Objetivo 
 
 El objetivo principal del proyecto es utilizar técnicas de Ciencia de Datos para analizar y comprender la distribución de los establecimientos de salud y las especialidades médicas en todo el país. A partir de este análisis, se busca generar conocimientos que puedan ser utilizados para mejorar la planificación y la gestión de los recursos de salud a nivel nacional y provincial, así como para identificar posibles áreas de mejora (vulnerabilidad sanitaria).  
 
