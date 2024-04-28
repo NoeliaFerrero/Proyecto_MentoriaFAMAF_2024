@@ -22,14 +22,14 @@
 
 ## Introduccion 
 
-Al igual que, un centro de atención médica puede ser el inicio de numerables historias de recuperación, un buen proyecto de Ciencia de Datos, representa el punto de partida para decisiones informadas, ideas innovadoras y, finalmente, historias de éxito en salud.
+Al igual que, un centro de atención médica puede ser el inicio de innumerables historias de recuperación, un buen proyecto de Ciencia de Datos, representa el punto de partida para decisiones informadas, ideas innovadoras y, finalmente, historias de éxito en salud.
 
 Quien ha estado en la guardia de un hospital y se detuvo frente al panel de monitoreo de pacientes, sabe que cada minuto cuenta…que cada escenario es muy cambiante...
-esa pantalla, aparentemente un conjunto de datos fríos para algunos, en realidad es una ventana hacia innumerables historias para aquellos que saben interpretarla: cada diagnóstico es el equivalente a un capítulo en la vida de una persona, donde generalmente se terminarán desencadenando un sinfín de desenlaces. 
+Esa pantalla, aparentemente un conjunto de datos fríos para algunos, es en realidad una ventana hacia innumerables historias para aquellos que saben interpretarla: cada diagnóstico es el equivalente a un capítulo en la vida de una persona, donde generalmente se terminarán desencadenando un sinfín de desenlaces. 
 
 Esta experiencia nos lleva a reflexionar sobre el poder de los datos en un mundo donde los recursos asociados a la salud de la población, en muchas ocasiones no son gestionados de la manera más efectiva.
 
-En este proyecto de Ciencia de Datos, al igual que en ese panel de monitoreo, no solo mostraremos cifras, nos comprometemos a generar hallazgos. Pero, ¿cómo podemos asegurarnos de que ese conocimiento realmente 'hable' y comunique esa información de manera asertiva?
+En este proyecto de Ciencia de Datos, al igual que, en ese panel de monitoreo, no solo mostraremos cifras, nos comprometemos a generar hallazgos. Pero, ¿cómo podemos asegurarnos de que ese conocimiento realmente 'hable' y comunique esa información de manera asertiva?
 
 La Guard.IA esta a punto de comenzar y el desafio mayor consiste en poner en marcha tanto las habilidades técnicas, como las habilidades blandas, que nos permitan ir desandando a lo largo del camino, todo lo que los datos recolectados, tienen para contar. 
 
