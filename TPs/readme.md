@@ -2,6 +2,16 @@
 
 # ***Sin bajar la Guard.IA ~ Construyendo conocimiento al servicio de la salud***
 
+
+Reunión de seguimiento semanal (Weekly meeting): 
+
+https://reunion-semanal-proposit-n7mvoyw.gamma.site/
+
+Drive Mentoria: 
+
+https://drive.google.com/drive/folders/1EmZcXPWVdqmc7CQ3j7chSnq_Om39bk1u?usp=sharing
+
+
 <div align="center">
 
 <p align="center">
