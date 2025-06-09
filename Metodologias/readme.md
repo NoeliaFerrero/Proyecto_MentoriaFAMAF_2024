@@ -31,7 +31,7 @@ https://prezi.com/view/3Wc5PgW7iiciY9hWKSmB/
 
 
 
-**Scrum** es sin lugar a dudas el framework para organización de equipos de trabajo más utilizado del mundo. Sin embargo, en entornos de Business Analytics requiere de adaptaciones para que funcione con las características de estos proyectos. En este artículo proponemos una adaptación de Scrum utilizando ciertas prácticas y enfoques de CRISP-DM.
+**Scrum** es sin lugar a dudas el framework para organización de equipos de trabajo más utilizado del mundo. Sin embargo, en entornos de Business Analytics requiere de adaptaciones para que funcione con las características de estos proyectos. La siguiente es una adaptación de Scrum utilizando ciertas prácticas y enfoques de CRISP-DM.
 
 **CRISP-DM** es una metodología ampliamente utilizada por la industria para proyectos de Business Analytics. Define las siguientes fases de desarrollo que, en mayor o menor medida, deberían incluirse en cualquier proyecto de analíticas avanzadas:
 
